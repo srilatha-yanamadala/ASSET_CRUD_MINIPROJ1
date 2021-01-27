@@ -9,7 +9,7 @@ Hi! I'm Srilatha and this is my first mini project in C#.
  
 **CRUD** -- **C**reate **R**ead **U**pdate and **D**elete
 
-### To Run the application.
+### To Run the application
  - Clone the repository to your local folder
  - Open the project in Visual Studio
  - Right click on AssetTracking.ConsoleApp project and select Set as Starup project option.
@@ -24,19 +24,26 @@ Hi! I'm Srilatha and this is my first mini project in C#.
 	1. Computer
 	2. Office
 	3. Phone
- - Then just run the program.cs 
+	
+ - After verificying the table creation,  just run the program.cs 
+
  - Use the sample test data provided below.
+
  - Once the execution is completed, verify the tables. (Computer, office and Phone)
 
-***Current status of the project:***
+##################################################################
 
+***Current status of the project:***
  - Only CREATE and READ operations are done as of now. 
  - Delete operation is checked and it's working fine for one record, when ID is passed.
+ 
  
 **TODO:**
 UPDATE is still to be done.
 DELETE is partially done and tested.
 Text formatting based on the validity dates
+
+##################################################################
 
 ***SAMPLE TEST DATA***
 Enter 'q' twice, to come out of the program.
