@@ -1,6 +1,7 @@
 # Welcome to AssetTracking Miniproject!
 
 Hi! I'm Srilatha and this is my first mini project in C#. 
+
 **Asset Tracking ** is a project done  as part of my c# training and it does the following.
 
  -  Reads user's laptop / mobile assets details
@@ -8,6 +9,7 @@ Hi! I'm Srilatha and this is my first mini project in C#.
  -  Performs CRUD operations on the data, based on user's input.
  
 **CRUD** -- **C**reate **R**ead **U**pdate and **D**elete
+
 
 ### To Run the application
  - Clone the repository to your local folder
@@ -31,7 +33,9 @@ Hi! I'm Srilatha and this is my first mini project in C#.
 
  - Once the execution is completed, verify the tables. (Computer, office and Phone)
 
+
 ##################################################################
+
 
 ***Current status of the project:***
  - Only CREATE and READ operations are done as of now. 
@@ -43,7 +47,9 @@ UPDATE is still to be done.
 DELETE is partially done and tested.
 Text formatting based on the validity dates
 
+
 ##################################################################
+
 
 ***SAMPLE TEST DATA***
 Enter 'q' twice, to come out of the program.
