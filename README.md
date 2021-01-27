@@ -2,7 +2,7 @@
 
 Hi! I'm Srilatha and this is my first mini project in C#. 
 
-**Asset Tracking ** is a project done  as part of my c# training and it does the following.
+**Asset Tracking** is a project done  as part of my c# training and it does the following.
 
  -  Reads user's laptop / mobile assets details
  -  Stores them in the database, by using the Entity framework core in C#. 
